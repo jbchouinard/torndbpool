@@ -13,4 +13,5 @@ This package provides a drop-in replacement for torndb.Connection that uses a sq
 ## Usage
 
 \# from torndb import Connection
+
 from torndbpool import PoolConnection as Connection
